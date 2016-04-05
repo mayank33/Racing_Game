@@ -1,0 +1,3 @@
+-3.0+bkx-2*cos(DEG2RAD(-angl)),      0.3,     -3.0+bky-2*sin(DEG2RAD(-angl)),
+			-3.0+bkx,      0.0,         -3.0+bky,
+			0.0,    1.0,    0.0);
